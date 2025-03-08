@@ -1,0 +1,17 @@
+content/search/index.mdSkip to content
+Navigation Menu
+Copilot
+
+Copilot Chat
+New conversation
+https://colab.research.google.com/github/google/android-management-api-samples/blob/master/notebooks/quickstart.ipynb#scrollTo=JPYgBZSmCEilhttps://github.com/googleapis/google-api-java-client-services.gitenrollment_token = androidmanagement.enterprises().enrollmentTokens().create(
+    parent=enterprise_name,
+    body={"policyName": policy_name}
+).execute()androidmanagement.enterprises
+It looks like you are referring to a Jupyter Notebook hosted on Google Colab and a GitHub repository for Google APIs. You also provided a snippet of code from the Android Management API.
+
+How can I assist you with this information? Are you looking for help with the code, the API, or something else?
+
+Ask Copilot
+
+It looks like you are referring to a Jupyter Notebook hosted on Google Colab and a GitHub repository for Google APIs. You also provided a snippet of code from the Android Management API. How can I assist you with this information? Are you looking for help with the code, the API, or something else?https://colab.research.google.com/github/google/android-management-api-samples/blob/master/notebooks/quickstart.ipynb#scrollTo=JPYgBZSmCEilhttps://github.com/googleapis/google-api-java-client-services.gitenrollment_tokenandroidmanagement.enterprises51070778main
